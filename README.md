@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU/)](https://Vivekbalodi.io)
+[![MasterHead](https://www.courier.com/docs/assets/images/send-notification-code-stack-c32ef9a026b1d9f5769954dbdecff493.gif)](https://Vivekbalodi.io)
 <h1 align="center">Hi 👋, I'm Vivek Balodi</h1>
 <h3 align="center">A DevOps engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
