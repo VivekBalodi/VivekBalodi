@@ -8,9 +8,6 @@
 <p align="left"> <a href="https://twitter.com/vivekbalodi578" target="blank"><img src="https://img.shields.io/twitter/follow/vivekbalodi578?logo=twitter&style=for-the-badge" alt="vivekbalodi578" /></a> </p>
 
 - 🌱 I’m currently learning **Python and yaml**
-
-#- 📝 I regularly write articles on [https://impactofpositivity.blogspot.com/](https://impactofpositivity.blogspot.com/)
-
 - 💬 Ask me about **Kubernetes, GCP cloud, Azure Cloud, Python and Yaml**
 
 <h3 align="left">Connect with me:</h3>
