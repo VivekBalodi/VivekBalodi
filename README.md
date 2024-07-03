@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Python and yaml**
 
-- 📝 I regularly write articles on [https://impactofpositivity.blogspot.com/](https://impactofpositivity.blogspot.com/)
+#- 📝 I regularly write articles on [https://impactofpositivity.blogspot.com/](https://impactofpositivity.blogspot.com/)
 
-- 💬 Ask me about **Python and Yaml**
+- 💬 Ask me about **Kubernetes, GCP cloud, Azure Cloud, Python and Yaml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
